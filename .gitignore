@@ -1,3 +1,5 @@
 dataset/
 transcripts/
 post_transcripts/
+geckodriver.log
+*.csv
